@@ -445,7 +445,8 @@ PRODUCT_PACKAGES += \
     MarbleGLWifiOverlay \
     MarbleINSettingsOverlay \
     MarbleINSettingsProviderOverlay \
-    MarbleINWifiOverlay
+    MarbleINWifiOverlay \
+    Debloat
 
 # Partitions
 PRODUCT_BUILD_SUPER_PARTITION := false
